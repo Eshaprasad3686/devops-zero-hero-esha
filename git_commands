@@ -9,4 +9,4 @@ You can use --local insted of --global
 ```sh
 git config --global user.name <"username">
 git config --global user.email <"email">
-```sh
+```
